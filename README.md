@@ -5,14 +5,18 @@ Build a logistic regression model using Scikit-learn to predict fraudulent trans
 Dataset: 
 https://www.kaggle.com/c/ieee-fraud-detection/data
 
-train_identity.csv
-train_transaction.csv
-
 Dependencies:
+
 import numpy as np
+
 import pandas as pd 
+
 import matplotlib.pyplot as plt
+
 import seaborn as sns
+
 import os 
+
 import gc
+
 import sklearn
