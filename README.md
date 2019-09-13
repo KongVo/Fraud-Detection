@@ -20,3 +20,5 @@ import os
 import gc
 
 import sklearn
+
+View notebook at: https://nbviewer.jupyter.org/github/KongVo/Fraud-Detection/blob/master/Week%203%20Fraud%20Detection.ipynb
